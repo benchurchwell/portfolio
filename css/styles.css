@@ -10,25 +10,31 @@ h4{
 
 img {
   border-radius: 50%;
-  max-width: 150px;
-  max-height: 150px;
-}
-
-.box-outer {
-  width: 50%;
+  max-width: 200px;
+  float: left;
   border: solid black;
-  border-width: 1px;
-  background-color: paleturquoise;
-  margin-bottom: 10px;
-  box-sizing: border-box;
 }
 
-.box-inner {
-  width: 50%;
+.box-1 {
+  width: 80%;
+  margin: auto;
+  padding: 30px;
+}
+
+.box-2 {
+  width: 80%;
   padding: 20px;
   border: solid black;
   border-width: 20px;
-  background-color: palegoldenrod;
+  background-color: white;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+.box-3 {
+  width: 80%;
+  border: solid black;
+  border-width: 1px;
+  background-color: white;
   margin-bottom: 10px;
   box-sizing: border-box;
 }
