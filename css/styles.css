@@ -1,40 +1,28 @@
-
-
 h1{
   font-weight: bold;
-}
-
-h4{
-  font-weight: 100;
 }
 
 img {
   border-radius: 50%;
   max-width: 200px;
-  float: left;
+  float: right;
   border: solid black;
+  margin: 15px;
 }
 
 .box-1 {
-  width: 80%;
+  width: 85%;
   margin: auto;
-  padding: 30px;
+  padding: 10px;
 }
 
 .box-2 {
   width: 80%;
-  padding: 20px;
-  border: solid black;
-  border-width: 20px;
   background-color: white;
   margin-bottom: 10px;
   box-sizing: border-box;
 }
-.box-3 {
-  width: 80%;
-  border: solid black;
-  border-width: 1px;
-  background-color: white;
-  margin-bottom: 10px;
-  box-sizing: border-box;
+
+.green {
+  color: darkgreen;
 }
