@@ -4,20 +4,16 @@ Ben's Portfolio Readme
 
 ---
 
-application name
+- application name: Ben Churchwell's Portfolio Webpage
 
-names of contributors
+- names of contributors: Ben Churchwell
 
-description of application
+- description of application: This page was designed from scratch using HTML and CSS. The intent of this page is for me to have a website resume.
 
-link to site on GitHub Pages
+- Link to site on GitHub Pages: (https://benchurchwell.github.io/portfolio/)
 
-a "technologies used" section
+- Technologies used: HTML, CSS, Bootstrap
 
-application setup instructions
+- Known Bugs: none. [report a bug!](mailto:benchurchwell@gmail.com)
 
-link to site on GitHub Pages
-
-a "known bugs" section
-
-copyright, date, and license information
+Creative Commons license, 2023.
