@@ -14,6 +14,6 @@ Ben's Portfolio Readme
 
 - Technologies used: HTML, CSS, Bootstrap
 
-- Known Bugs: none. [report a bug!](mailto:benchurchwell@gmail.com)
+- Known Bugs: none. [report a bug!] email the owner!
 
 Creative Commons license, 2023.
